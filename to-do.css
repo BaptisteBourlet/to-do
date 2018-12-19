@@ -1,0 +1,38 @@
+/*.dropper {
+  margin: 50px 10px 10px 50px;
+  height: 80px;
+  background-color: #FFF;
+  border: 1px solid #111;
+  
+  border-radius: 10px;
+  transition: all 200ms linear;
+}
+
+.drop_hover {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.8) inset;
+}
+
+.draggable {
+  display: inline-block;
+  margin: 20px 10px 10px 20px;
+  padding-top: 10px;
+  
+  
+  color: #3D110F;
+  
+  
+  text-align: center;
+  
+  cursor: move;
+
+  transition: all 200ms linear;
+  user-select: none;
+}*/
+
+li {
+  border: solid 5px black;
+  list-style-type: none!important;
+}
+ul li {
+  list-style-type: none!important;
+}
